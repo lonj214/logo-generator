@@ -41,6 +41,10 @@ To run the test, open the terminal and enter 'npm run test'.
 
 ## Recording of Application Functionality
 
+[![Watch the video](file:///Users/londonjensen/Downloads/Untitled_%20Aug%2024,%202023%203_16%20PM.webm)](https://drive.google.com/file/d/1vZvxZFp77ZGuvWDFJQxjGLnZNmQmHlQE/view)
+
+Note** I am sorry I could not figure out how to get the link to work. You have to copy and paste the 1st link into the browser.
+
 ## Screenshots
 
 ![screenshot](logo-example1)
