@@ -38,13 +38,10 @@ function promptUser() {
                 let choiceOfShape 
                 if (answers.shape === 'circle') {
                     choiceOfShape = new circle();
-                    // svg += `circle cx="150" cy="115" r="80" fill="${answers.colorOfShape}"/>`;
                 } else if (answers.shape === 'triangle') {
                     choiceOfShape = new triangle();
-                    // svg += `polygon points="150, 18 244, 182 56, 182" fill="${answers.colorOfShape}"/>`;
                 } else {
                     choiceOfShape = new square();
-                    // svg += `rect x="73" y="130" width="160" fill="${answers.colorOfShape}"/>`;
                 }
                 choiceOfShape.setColor(answers.colorOfShape);
                 const svgObject = new svg();
