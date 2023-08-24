@@ -43,6 +43,9 @@ To run the test, open the terminal and enter 'npm run test'.
 
 ## Screenshots
 
+![screenshot](logo-example1)
+![screenshot](logo-example2)
+
 ## GitHub
 
 [link](https://github.com/lonj214/logo-generator)
